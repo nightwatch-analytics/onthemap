@@ -1,8 +1,8 @@
 Package: onthemap
-Title: What the Package Does (One Line, Title Case)
+Title: Analyze Labor Markets Similar to the US Census Bureau's OnTheMap Tool
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Joseph", "Mohr", , "jmohr@thenightwatch.co", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
